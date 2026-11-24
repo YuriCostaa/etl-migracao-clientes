@@ -1,0 +1,475 @@
+COD_CLI;LOGRADOURO;NUMERO;BAIRRO;CIDADE;UF;CEP;PAIS
+C000001;Rua do Comércio;1237;Asa Sul;Rio de Janeiro;RJ;23396-094;Brasil
+C000002;Quadra 104;1403;Asa Sul;Fortaleza;ce;31417-473;BRA
+C000003;Alameda Santos;1084;Asa Sul;Brasília;DF;99192432;BRA
+C000004;Rua do Comércio;1001;Centro;Buenos Aires;;;AR
+C000005;Rua das Flores;146;Boa Vista;Porto Alegre;rs;12757602;Brasil
+C000006;Travessa São José;376;Asa Sul;Brasília;DF;42591-196;BR
+C000007;Avenida Brasil;1744;Asa Norte;Brasília;DF;75909941;brasil
+C000008;Alameda Santos;1708;Vila Nova;Campinas;SP;19016-900;Brasil
+C000009;Avenida Brasil;1936;Boa Vista;São Paulo;SP;82309-7;brasil
+C000010;Rua das Flores;1759;Jardim América;Curitiba;PR;44970163;BRA
+C000011;Quadra 104;746;Jardim América;Curitiba;PR;67154001;BR
+C000012;Avenida Paulista;461;Setor Bueno;Manaus;AM;22240838;Brasil
+C000013;Travessa São José;1702;Vila Nova;Porto Alegre;RS;68008627;Brasil
+C000014;Avenida Paulista;1544;Jardim América;Curitiba;PR;85456-389;BR
+C000015;Avenida Paulista;1710;Centro;Curitiba;PR;59692284;Brasil
+C000016;Avenida Brasil;1631;Vila Nova;Manaus;AM;23356713;BRA
+C000017;Alameda Santos;435;Asa Sul;Porto Alegre;RS;54092-029;brasil
+C000018;Quadra 104;647;Centro;Manaus;AM;45509-313;brasil
+C000020;Rua Sete de Setembro;492;Asa Norte;Belo Horizonte;MG;37235-640;BR
+C000021;Avenida Paulista;53;Centro;Belo Horizonte;MG;88385040;BR
+C000023;Avenida Paulista;851;Setor Bueno;Goiânia;GO;75323955;BRA
+C000024;Rua das Flores;652;Boa Vista;Rio de Janeiro;RJ;84946-392;BRA
+C000025;Avenida Paulista;466;Boa Vista;Manaus;AM;90931-070;BR
+C000027;Rua Sete de Setembro;1287;Centro;Campinas;SP;91381256;BRA
+C000028;Avenida Paulista;1099;Centro;Campinas;SP;83048-374;brasil
+C000029;Travessa São José;1924;Asa Sul;Manaus;AM;64379-670;BRA
+C000030;Avenida Paulista;1636;Asa Norte;Campinas;SP;46342879;BR
+C000031;Rua do Comércio;781;Vila Nova;Porto Alegre;RS;52219-622;BR
+C000032;Travessa São José;1778;Boa Vista;Brasília;DF;97819-125;Brasil
+C000034;Avenida Paulista;94;Asa Norte;Campinas;SP;24534290;brasil
+C000035;Rua do Comércio;181;Jardim América;Curitiba;PR;32527820;Brasil
+C000036;Rua do Comércio;1770;Boa Vista;São Paulo;SP;83889778;brasil
+C000037;Rua das Flores;508;Boa Vista;Salvador;BA;55015-731;BR
+C000038;Avenida Brasil;1324;Boa Vista;Manaus;AM;94343-810;brasil
+C000039;Alameda Santos;480;Vila Nova;Porto Alegre;rs;68222-625;BRA
+C000040;Rua do Comércio;483;Jardim América;Curitiba;pr;55820-952;brasil
+C000041;Avenida Paulista;250;Centro;Miami;;;USA
+C000042;Rua do Comércio;274;Centro;Belo Horizonte;MG;55193246;BR
+C000043;Avenida Paulista;1641;Centro;Porto Alegre;RS;75038-708;BRA
+C000044;Rua do Comércio;742;Jardim América;São Paulo;SP;14561-129;brasil
+C000045;Rua do Comércio;1368;Asa Sul;Goiânia;go;68341089;BRA
+C000046;Rua Sete de Setembro;1573;Asa Norte;Rio de Janeiro;RJ;26821899;Brasil
+C000047;Avenida Paulista;1315;Asa Sul;Recife;PE;91016-654;brasil
+C000048;Rua Sete de Setembro;1021;Vila Nova;Recife;PE;52917956;BRA
+C000049;Avenida Brasil;264;Centro;Salvador;BA;82070286;brasil
+C000050;Rua das Flores;1223;Jardim América;Porto Alegre;RS;64596-597;BR
+C000051;Avenida Paulista;1250;Jardim América;São Paulo;SP;98587790;Brasil
+C000052;Quadra 104;104;Boa Vista;Campinas;SP;27992111;Brasil
+C000053;Avenida Paulista;1796;Centro;Brasília;DF;34420959;brasil
+C000054;Rua do Comércio;619;Vila Nova;São Paulo;SP;44181-392;BR
+C000055;Avenida Brasil;1077;Jardim América;Porto Alegre;RS;42435696;BRA
+C000056;Avenida Brasil;1109;Centro;Brasília;DF;85800-074;BRA
+C000058;Quadra 104;619;Asa Norte;São Paulo;SP;85690612;Brasil
+C000059;Rua Sete de Setembro;1651;Jardim América;Miami;;;USA
+C000060;Alameda Santos;1873;Asa Norte;Campinas;SP;37762-959;BR
+C000061;Quadra 104;1023;Vila Nova;Recife;PE;35715-337;BRA
+C000062;Travessa São José;25;Centro;Brasília;DF;96413-499;brasil
+C000063;Avenida Brasil;1833;Vila Nova;Manaus;AM;94529-803;brasil
+C000064;Rua do Comércio;1240;Setor Bueno;Manaus;AM;17038-100;Brasil
+C000065;Rua das Flores;184;Asa Sul;Belo Horizonte;mg;68830570;brasil
+C000066;Travessa São José;1647;Setor Bueno;Porto Alegre;RS;27758-311;BR
+C000067;Quadra 104;518;Boa Vista;Manaus;AM;63627-689;BR
+C000068;Rua Sete de Setembro;707;Centro;Goiânia;GO;68429-383;BRA
+C000069;Quadra 104;921;Vila Nova;Porto Alegre;RS;34430655;BRA
+C000070;Travessa São José;857;Vila Nova;Goiânia;GO;50026-119;BRA
+C000071;Alameda Santos;1126;Vila Nova;Campinas;SP;32047-799;Brasil
+C000072;Avenida Brasil;278;Setor Bueno;Brasília;DF;52421-720;BRA
+C000073;Travessa São José;1690;Asa Norte;Manaus;am;18300814;Brasil
+C000074;Quadra 104;977;Centro;São Paulo;sp;66260-671;BRA
+C000075;Travessa São José;720;Jardim América;Curitiba;PR;21362-918;BRA
+C000076;Avenida Brasil;35;Vila Nova;São Paulo;SP;57895559;brasil
+C000077;Avenida Brasil;26;Boa Vista;Goiânia;GO;50539682;BR
+C000078;Rua das Flores;501;Centro;Goiânia;GO;39937758;BR
+C000079;Alameda Santos;1583;Setor Bueno;Rio de Janeiro;RJ;91620-248;Brasil
+C000080;Travessa São José;154;Vila Nova;Manaus;AM;86122097;BR
+C000081;Quadra 104;1984;Asa Sul;Fortaleza;CE;38183855;BR
+C000082;Travessa São José;1683;Boa Vista;São Paulo;sp;26059043;Brasil
+C000083;Avenida Paulista;369;Centro;Manaus;AM;55093934;brasil
+C000085;Avenida Brasil;690;Asa Sul;Goiânia;GO;58967721;BR
+C000086;Rua do Comércio;915;Centro;Goiânia;GO;93386906;BRA
+C000087;Rua das Flores;884;Boa Vista;Curitiba;PR;54295608;BR
+C000088;Travessa São José;379;Asa Sul;Porto Alegre;RS;71727500;brasil
+C000089;Rua Sete de Setembro;247;Setor Bueno;Campinas;SP;75811584;BR
+C000090;Travessa São José;541;Jardim América;Goiânia;GO;47498888;BR
+C000091;Avenida Brasil;385;Jardim América;Campinas;sp;52056275;brasil
+C000092;Rua do Comércio;706;Asa Norte;Fortaleza;ce;33276983;brasil
+C000093;Travessa São José;1198;Centro;Manaus;AM;55706-470;brasil
+C000094;Alameda Santos;1857;Boa Vista;Curitiba;PR;54979743;BRA
+C000095;Rua Sete de Setembro;282;Asa Norte;Porto Alegre;RS;79446-305;brasil
+C000096;Quadra 104;464;Boa Vista;Manaus;XX;79603-1;Brasil
+C000097;Rua das Flores;769;Boa Vista;Manaus;AM;87292-516;BR
+C000098;Travessa São José;605;Asa Norte;Goiânia;GO;44471851;BRA
+C000099;Rua Sete de Setembro;674;Asa Sul;Fortaleza;CE;16014009;BR
+C000101;Alameda Santos;1745;Jardim América;Curitiba;pr;11526658;BR
+C000102;Rua das Flores;1673;Asa Norte;Recife;PE;95799-687;BRA
+C000103;Avenida Brasil;1582;Jardim América;Campinas;SP;16094948;brasil
+C000104;Quadra 104;412;Asa Norte;São Paulo;SP;81802-881;Brasil
+C000105;Rua das Flores;735;Setor Bueno;São Paulo;SP;18130707;BRA
+C000106;Rua Sete de Setembro;330;Vila Nova;Fortaleza;ce;59440-041;BR
+C000107;Avenida Brasil;1370;Asa Sul;Rio de Janeiro;RJ;83575843;brasil
+C000108;Travessa São José;1325;Setor Bueno;Campinas;SP;23621210;brasil
+C000109;Avenida Paulista;1243;Centro;Manaus;AM;56884950;BR
+C000110;Quadra 104;235;Asa Norte;Curitiba;PR;31096-188;BRA
+C000111;Travessa São José;567;Setor Bueno;Rio de Janeiro;RJ;10633-320;BRA
+C000112;Avenida Paulista;275;Jardim América;Brasília;DF;95709-793;brasil
+C000113;Avenida Paulista;1710;Boa Vista;Porto Alegre;RS;95003-331;BR
+C000114;Rua Sete de Setembro;1326;Setor Bueno;Goiânia;GO;24855493;Brasil
+C000115;Avenida Brasil;471;Jardim América;Recife;PE;31983741;Brasil
+C000116;Avenida Brasil;581;Vila Nova;Curitiba;PR;65769-137;BR
+C000117;Travessa São José;1507;Asa Norte;Salvador;BA;43263314;brasil
+C000118;Avenida Paulista;399;Centro;Curitiba;PR;32973-6;BR
+C000119;Rua do Comércio;1940;Centro;Curitiba;PR;76353109;brasil
+C000120;Avenida Paulista;375;Boa Vista;Manaus;AM;72463-321;BRA
+C000121;Travessa São José;980;Vila Nova;Belo Horizonte;MG;62150227;Brasil
+C000122;Travessa São José;1754;Jardim América;Belo Horizonte;MG;23090-738;BRA
+C000123;Avenida Paulista;728;Asa Sul;Brasília;DF;85609589;BRA
+C000124;Quadra 104;1356;Asa Sul;Rio de Janeiro;RJ;64262-1;brasil
+C000125;Avenida Paulista;1124;Jardim América;Salvador;XX;52624-884;Brasil
+C000126;Travessa São José;809;Asa Norte;Curitiba;PR;81855-382;BR
+C000127;Rua do Comércio;861;Asa Sul;Belo Horizonte;MG;40514-092;BR
+C000128;Avenida Brasil;519;Jardim América;Porto Alegre;RS;30789644;Brasil
+C000129;Rua do Comércio;1144;Setor Bueno;Fortaleza;ce;80300-810;BRA
+C000130;Rua do Comércio;1477;Centro;Fortaleza;CE;91229-877;BR
+C000131;Quadra 104;1343;Jardim América;Manaus;AM;89423-735;BRA
+C000132;Avenida Brasil;342;Setor Bueno;Manaus;am;98407469;Brasil
+C000133;Avenida Paulista;1883;Vila Nova;Belo Horizonte;mg;51275022;BRA
+C000134;Avenida Brasil;1782;Setor Bueno;Goiânia;GO;55603900;Brasil
+C000136;Quadra 104;409;Boa Vista;São Paulo;SP;91681-149;brasil
+C000137;Travessa São José;1353;Asa Sul;Belo Horizonte;MG;169574;Brasil
+C000138;Rua das Flores;1934;Vila Nova;Rio de Janeiro;RJ;18127-640;Brasil
+C000139;Avenida Brasil;378;Asa Sul;São Paulo;SP;51614069;BRA
+C000140;Rua das Flores;837;Setor Bueno;Porto Alegre;RS;74414-485;brasil
+C000141;Avenida Brasil;925;Jardim América;Lisboa;;;Portugal
+C000142;Quadra 104;1808;Jardim América;Manaus;AM;69098-025;Brasil
+C000143;Alameda Santos;1020;Setor Bueno;Porto Alegre;RS;36588003;BRA
+C000144;Rua Sete de Setembro;1979;Jardim América;Rio de Janeiro;RJ;33363165;brasil
+C000145;Rua Sete de Setembro;1259;Vila Nova;Belo Horizonte;MG;78864588;Brasil
+C000146;Quadra 104;677;Setor Bueno;Brasília;df;84569630;brasil
+C000147;Avenida Paulista;848;Centro;São Paulo;SP;50407722;BR
+C000148;Avenida Paulista;47;Vila Nova;Goiânia;go;53684478;BR
+C000149;Rua das Flores;217;Jardim América;Goiânia;GO;16648-133;brasil
+C000150;Rua do Comércio;981;Jardim América;São Paulo;SP;69412-499;Brasil
+C000151;Alameda Santos;667;Vila Nova;Rio de Janeiro;RJ;85260-856;BR
+C000152;Avenida Brasil;1194;Centro;Belo Horizonte;MG;66980735;Brasil
+C000153;Alameda Santos;1348;Jardim América;Rio de Janeiro;RJ;27600-0;BRA
+C000154;Rua das Flores;78;Vila Nova;Buenos Aires;;;AR
+C000155;Avenida Paulista;1489;Setor Bueno;Curitiba;PR;47907-171;Brasil
+C000156;Alameda Santos;1542;Jardim América;Salvador;BA;29014609;BR
+C000157;Rua do Comércio;554;Asa Sul;Salvador;BA;66595625;Brasil
+C000158;Rua Sete de Setembro;1836;Centro;Recife;PE;25725088;BR
+C000159;Avenida Paulista;1592;Jardim América;Curitiba;PR;43947-105;brasil
+C000160;Alameda Santos;1558;Setor Bueno;Curitiba;pr;57887547;BR
+C000161;Quadra 104;1895;Centro;Manaus;am;98877891;brasil
+C000162;Rua das Flores;1215;Asa Norte;Fortaleza;CE;52151856;BRA
+C000163;Avenida Paulista;713;Jardim América;São Paulo;SP;75521626;BRA
+C000164;Avenida Brasil;1834;Asa Norte;Porto Alegre;rs;30715-804;BRA
+C000165;Travessa São José;351;Setor Bueno;Campinas;SP;46779-139;BR
+C000167;Alameda Santos;950;Setor Bueno;Buenos Aires;;;AR
+C000168;Alameda Santos;1511;Setor Bueno;São Paulo;SP;28141-342;BRA
+C000169;Rua das Flores;601;Jardim América;Goiânia;GO;75054154;BRA
+C000170;Rua Sete de Setembro;1617;Asa Sul;Lisboa;;;Portugal
+C000171;Alameda Santos;1574;Asa Norte;São Paulo;SP;79945-3;BRA
+C000172;Alameda Santos;1387;Boa Vista;Rio de Janeiro;rj;46428-200;BRA
+C000173;Avenida Paulista;336;Setor Bueno;Lisboa;;;Portugal
+C000174;Avenida Paulista;1958;Boa Vista;Recife;PE;39428027;brasil
+C000175;Avenida Paulista;598;Vila Nova;São Paulo;SP;64986651;Brasil
+C000176;Rua Sete de Setembro;1892;Centro;Salvador;BA;64702471;BR
+C000177;Avenida Brasil;1885;Vila Nova;Brasília;DF;18683308;BR
+C000178;Rua do Comércio;778;Jardim América;Manaus;AM;67627689;BRA
+C000179;Avenida Brasil;245;Asa Norte;Rio de Janeiro;RJ;98092-107;brasil
+C000180;Alameda Santos;1389;Centro;Porto Alegre;RS;13895101;BRA
+C000181;Avenida Brasil;786;Jardim América;Miami;;;USA
+C000182;Rua das Flores;1568;Boa Vista;Belo Horizonte;XX;26803-857;BR
+C000183;Rua do Comércio;342;Vila Nova;Recife;pe;54035508;BRA
+C000184;Rua Sete de Setembro;1805;Centro;Salvador;BA;91915-527;Brasil
+C000185;Avenida Paulista;951;Jardim América;São Paulo;SP;41258-1;brasil
+C000186;Rua do Comércio;675;Setor Bueno;Manaus;AM;75070-905;Brasil
+C000187;Rua do Comércio;1850;Setor Bueno;Manaus;AM;43158-565;BRA
+C000188;Rua do Comércio;929;Boa Vista;Goiânia;GO;56118430;BR
+C000189;Quadra 104;1858;Centro;Curitiba;PR;12717-970;BRA
+C000190;Avenida Paulista;1529;Jardim América;Buenos Aires;;;AR
+C000191;Rua das Flores;11;Asa Sul;Belo Horizonte;mg;53628-953;BR
+C000192;Rua Sete de Setembro;1139;Setor Bueno;Belo Horizonte;MG;51358754;BRA
+C000193;Rua Sete de Setembro;853;Centro;São Paulo;SP;86486-994;BRA
+C000194;Travessa São José;190;Jardim América;São Paulo;SP;52358-817;Brasil
+C000195;Quadra 104;1327;Boa Vista;Rio de Janeiro;RJ;22182041;brasil
+C000196;Rua Sete de Setembro;1727;Jardim América;Belo Horizonte;MG;24933758;BR
+C000197;Avenida Paulista;180;Asa Norte;Porto Alegre;RS;98316986;Brasil
+C000198;Avenida Paulista;76;Jardim América;Brasília;df;64484-868;brasil
+C000199;Travessa São José;1707;Boa Vista;Recife;PE;27191-904;brasil
+C000200;Rua do Comércio;1608;Asa Sul;Goiânia;GO;25818-575;BRA
+C000201;Quadra 104;900;Jardim América;Salvador;BA;94815-372;BRA
+C000202;Rua das Flores;1353;Boa Vista;Salvador;BA;62645-790;Brasil
+C000203;Rua do Comércio;1551;Boa Vista;Manaus;AM;38014095;Brasil
+C000204;Rua do Comércio;931;Centro;Fortaleza;ce;23792335;BRA
+C000205;Avenida Brasil;1233;Setor Bueno;Salvador;ba;14273-764;brasil
+C000206;Rua Sete de Setembro;1561;Asa Norte;Recife;PE;59454486;Brasil
+C000207;Rua das Flores;564;Setor Bueno;Salvador;BA;25765674;BR
+C000208;Rua do Comércio;529;Jardim América;Rio de Janeiro;RJ;61110-101;Brasil
+C000209;Quadra 104;1101;Jardim América;Porto Alegre;rs;28660382;BRA
+C000210;Travessa São José;432;Vila Nova;Miami;;;USA
+C000212;Alameda Santos;350;Vila Nova;Manaus;AM;93681-405;BRA
+C000213;Rua das Flores;570;Jardim América;Goiânia;GO;77797-777;Brasil
+C000214;Rua das Flores;1878;Centro;Campinas;SP;22539-640;brasil
+C000215;Quadra 104;1853;Vila Nova;Brasília;DF;24156-105;BRA
+C000216;Rua do Comércio;388;Boa Vista;Salvador;BA;36263655;BRA
+C000217;Rua do Comércio;90;Centro;Goiânia;GO;48086-450;BRA
+C000218;Rua do Comércio;1228;Jardim América;Manaus;am;34856196;BRA
+C000219;Alameda Santos;1063;Jardim América;Buenos Aires;;;AR
+C000220;Alameda Santos;650;Asa Sul;Brasília;DF;69133-478;brasil
+C000221;Rua Sete de Setembro;1773;Jardim América;Curitiba;PR;71866669;BR
+C000222;Rua Sete de Setembro;315;Asa Sul;Fortaleza;CE;52739-601;Brasil
+C000223;Rua Sete de Setembro;227;Asa Norte;Salvador;ba;32521334;BR
+C000224;Travessa São José;511;Asa Norte;Porto Alegre;RS;61260627;Brasil
+C000225;Alameda Santos;781;Asa Sul;Porto Alegre;RS;70577-027;BR
+C000226;Quadra 104;906;Boa Vista;Brasília;DF;33322221;Brasil
+C000227;Rua do Comércio;356;Centro;Fortaleza;CE;66083-123;brasil
+C000228;Alameda Santos;784;Vila Nova;Fortaleza;CE;18849-343;brasil
+C000230;Quadra 104;1040;Centro;São Paulo;SP;87677562;BRA
+C000231;Avenida Paulista;929;Asa Sul;Goiânia;GO;82463-744;BRA
+C000232;Quadra 104;497;Jardim América;Manaus;AM;17563-666;Brasil
+C000233;Rua do Comércio;1668;Asa Norte;Fortaleza;CE;21648111;brasil
+C000234;Avenida Brasil;567;Centro;Curitiba;PR;93418-170;BR
+C000235;Avenida Paulista;1948;Boa Vista;Rio de Janeiro;XX;28201026;brasil
+C000236;Alameda Santos;345;Jardim América;Salvador;BA;26759509;BR
+C000237;Avenida Brasil;1630;Boa Vista;Buenos Aires;;;AR
+C000238;Quadra 104;219;Jardim América;Curitiba;PR;99037956;Brasil
+C000239;Rua Sete de Setembro;45;Vila Nova;Manaus;AM;33464-877;BR
+C000240;Rua Sete de Setembro;772;Jardim América;Manaus;AM;85455104;Brasil
+C000241;Rua das Flores;1202;Vila Nova;Rio de Janeiro;rj;74122656;BR
+C000242;Quadra 104;1978;Boa Vista;Miami;;;USA
+C000244;Avenida Brasil;1935;Asa Sul;Recife;PE;60040665;Brasil
+C000245;Travessa São José;1950;Centro;Belo Horizonte;mg;11292-100;Brasil
+C000246;Rua Sete de Setembro;899;Asa Sul;Curitiba;PR;42651694;Brasil
+C000247;Rua do Comércio;501;Boa Vista;Manaus;XX;10955-731;BRA
+C000248;Rua do Comércio;13;Vila Nova;Recife;PE;70693913;BR
+C000249;Rua do Comércio;1810;Setor Bueno;Goiânia;GO;31211-143;brasil
+C000250;Rua das Flores;890;Jardim América;Salvador;ba;98907-849;BR
+C000251;Quadra 104;455;Asa Sul;São Paulo;SP;16678-389;BR
+C000253;Avenida Brasil;1866;Jardim América;São Paulo;sp;83445-998;Brasil
+C000254;Quadra 104;607;Boa Vista;Recife;PE;76036724;brasil
+C000255;Rua das Flores;1101;Boa Vista;Brasília;XX;38741748;Brasil
+C000256;Rua Sete de Setembro;387;Vila Nova;Lisboa;;;Portugal
+C000258;Travessa São José;1407;Boa Vista;Brasília;XX;60512-150;brasil
+C000259;Rua Sete de Setembro;656;Asa Norte;Belo Horizonte;MG;10285882;BR
+C000260;Rua das Flores;743;Vila Nova;Curitiba;PR;21436-240;BRA
+C000261;Avenida Paulista;963;Jardim América;São Paulo;sp;29623-783;brasil
+C000262;Avenida Brasil;1673;Boa Vista;São Paulo;SP;38692-401;BR
+C000264;Rua das Flores;1203;Setor Bueno;Miami;;;USA
+C000265;Rua das Flores;293;Setor Bueno;Fortaleza;CE;29975580;BR
+C000266;Avenida Paulista;1797;Boa Vista;Fortaleza;ce;58979085;Brasil
+C000267;Alameda Santos;299;Boa Vista;Recife;PE;24984-285;brasil
+C000268;Rua Sete de Setembro;1978;Boa Vista;Curitiba;PR;36031357;BRA
+C000269;Rua Sete de Setembro;1231;Jardim América;São Paulo;SP;14782223;BR
+C000270;Avenida Brasil;1651;Setor Bueno;Fortaleza;CE;91313960;Brasil
+C000271;Travessa São José;1379;Asa Norte;Rio de Janeiro;RJ;96334-270;Brasil
+C000272;Rua do Comércio;418;Centro;São Paulo;SP;92223-938;brasil
+C000273;Rua Sete de Setembro;579;Asa Sul;Fortaleza;ce;24540470;BR
+C000274;Rua Sete de Setembro;443;Setor Bueno;Recife;PE;25937197;Brasil
+C000275;Rua do Comércio;766;Boa Vista;Porto Alegre;RS;91646110;Brasil
+C000276;Avenida Brasil;1149;Asa Sul;Recife;PE;60540290;BR
+C000277;Avenida Paulista;563;Asa Sul;Salvador;BA;19103-481;BR
+C000278;Avenida Paulista;154;Asa Sul;Salvador;BA;44037904;BR
+C000279;Rua das Flores;1374;Asa Norte;Salvador;BA;20225076;BRA
+C000280;Rua das Flores;976;Boa Vista;Goiânia;go;41531016;BR
+C000281;Avenida Brasil;1090;Centro;Fortaleza;CE;16964-916;BR
+C000282;Avenida Brasil;350;Boa Vista;São Paulo;SP;53785-021;brasil
+C000283;Alameda Santos;231;Asa Sul;Belo Horizonte;XX;49470-727;Brasil
+C000284;Avenida Brasil;888;Setor Bueno;Curitiba;PR;15387593;BRA
+C000285;Quadra 104;885;Vila Nova;Rio de Janeiro;RJ;21272-730;BRA
+C000286;Rua do Comércio;960;Asa Sul;São Paulo;SP;22588141;brasil
+C000287;Alameda Santos;1415;Asa Sul;Brasília;DF;53710-608;BR
+C000288;Rua Sete de Setembro;1680;Asa Norte;Porto Alegre;rs;17294-948;brasil
+C000289;Alameda Santos;88;Asa Sul;Goiânia;XX;14467660;Brasil
+C000290;Travessa São José;140;Setor Bueno;Buenos Aires;;;AR
+C000291;Rua das Flores;1254;Asa Sul;Manaus;AM;60342773;BRA
+C000292;Alameda Santos;390;Setor Bueno;Curitiba;PR;34288698;Brasil
+C000293;Avenida Brasil;1194;Jardim América;Belo Horizonte;mg;62326-633;Brasil
+C000294;Quadra 104;44;Centro;Goiânia;go;66559-489;Brasil
+C000295;Quadra 104;599;Asa Norte;Goiânia;go;15730-321;Brasil
+C000296;Alameda Santos;1952;Centro;Belo Horizonte;MG;28607036;Brasil
+C000297;Avenida Paulista;1759;Vila Nova;Recife;PE;24314-566;BR
+C000299;Avenida Paulista;34;Boa Vista;Recife;PE;17970974;BRA
+C000300;Avenida Brasil;1248;Asa Norte;Belo Horizonte;MG;48125-952;BR
+C000301;Quadra 104;934;Asa Sul;Campinas;SP;53081248;BRA
+C000302;Travessa São José;540;Setor Bueno;Salvador;BA;33581-897;BRA
+C000303;Alameda Santos;777;Asa Sul;Porto Alegre;RS;29956-917;BR
+C000304;Avenida Paulista;289;Centro;Porto Alegre;RS;89451-771;Brasil
+C000305;Alameda Santos;1292;Boa Vista;Goiânia;GO;19745-334;BRA
+C000306;Rua das Flores;857;Boa Vista;Manaus;XX;74315571;BR
+C000307;Avenida Paulista;549;Vila Nova;Manaus;AM;74117-615;brasil
+C000309;Travessa São José;1343;Jardim América;Brasília;DF;14427278;BRA
+C000310;Quadra 104;784;Centro;Goiânia;GO;73353291;Brasil
+C000311;Quadra 104;121;Setor Bueno;Buenos Aires;;;AR
+C000312;Alameda Santos;287;Boa Vista;São Paulo;SP;15119-906;BR
+C000313;Avenida Brasil;12;Asa Sul;São Paulo;SP;11287-325;brasil
+C000314;Rua Sete de Setembro;1633;Vila Nova;Fortaleza;CE;38369-286;BR
+C000315;Avenida Brasil;1809;Vila Nova;Salvador;BA;56529319;brasil
+C000316;Avenida Paulista;1315;Jardim América;Rio de Janeiro;rj;75902-943;Brasil
+C000317;Rua Sete de Setembro;1855;Vila Nova;Belo Horizonte;MG;53603857;BR
+C000318;Rua das Flores;1571;Asa Norte;Porto Alegre;rs;21326-190;BRA
+C000319;Quadra 104;1439;Jardim América;Salvador;BA;14814972;BRA
+C000320;Rua das Flores;900;Setor Bueno;Fortaleza;CE;50144-166;Brasil
+C000321;Avenida Brasil;634;Setor Bueno;Salvador;BA;27025-679;BRA
+C000322;Rua Sete de Setembro;819;Setor Bueno;Porto Alegre;RS;22559-396;BRA
+C000323;Travessa São José;368;Asa Norte;São Paulo;SP;98509-840;brasil
+C000324;Avenida Paulista;405;Vila Nova;Goiânia;GO;98436-081;brasil
+C000326;Travessa São José;46;Asa Norte;Goiânia;GO;54272949;BR
+C000327;Travessa São José;1864;Asa Norte;Miami;;;USA
+C000328;Avenida Paulista;826;Centro;Porto Alegre;RS;37608545;brasil
+C000329;Travessa São José;1127;Jardim América;Goiânia;go;84808-296;BR
+C000330;Avenida Brasil;1228;Vila Nova;Curitiba;PR;91117-229;BR
+C000331;Rua do Comércio;1787;Asa Norte;Porto Alegre;RS;33183-996;BRA
+C000332;Quadra 104;1630;Jardim América;Recife;PE;58033422;BRA
+C000333;Avenida Paulista;304;Vila Nova;Manaus;am;43725-652;brasil
+C000334;Rua das Flores;817;Boa Vista;Fortaleza;CE;78697-919;BR
+C000335;Avenida Brasil;1100;Setor Bueno;São Paulo;SP;41973599;BRA
+C000336;Avenida Paulista;1282;Jardim América;Salvador;BA;79755-254;Brasil
+C000337;Rua do Comércio;1960;Vila Nova;São Paulo;SP;32515-872;brasil
+C000338;Avenida Paulista;40;Setor Bueno;Lisboa;;;Portugal
+C000339;Avenida Brasil;665;Setor Bueno;Brasília;DF;67425-945;Brasil
+C000340;Alameda Santos;1635;Centro;Fortaleza;CE;28385122;BR
+C000341;Rua do Comércio;930;Vila Nova;Porto Alegre;RS;95254-338;BRA
+C000343;Rua Sete de Setembro;1550;Asa Norte;Recife;PE;76414935;BRA
+C000344;Rua do Comércio;93;Asa Norte;Fortaleza;CE;12077974;brasil
+C000345;Rua das Flores;1821;Jardim América;Belo Horizonte;MG;91515-3;Brasil
+C000346;Quadra 104;258;Asa Norte;Salvador;BA;72624504;BR
+C000347;Alameda Santos;1757;Asa Sul;São Paulo;sp;31218-406;BRA
+C000348;Avenida Brasil;1979;Setor Bueno;Porto Alegre;RS;26554-894;Brasil
+C000349;Rua Sete de Setembro;1108;Vila Nova;Lisboa;;;Portugal
+C000350;Avenida Brasil;464;Asa Sul;Campinas;SP;61249-605;brasil
+C000351;Rua do Comércio;495;Setor Bueno;Fortaleza;CE;48155230;brasil
+C000352;Avenida Brasil;1179;Centro;Recife;PE;15518-616;brasil
+C000353;Avenida Paulista;1575;Setor Bueno;Fortaleza;CE;46258456;BRA
+C000354;Avenida Paulista;1550;Vila Nova;Porto Alegre;RS;52304-016;BRA
+C000356;Rua Sete de Setembro;198;Setor Bueno;Salvador;BA;52160880;BRA
+C000357;Alameda Santos;1777;Boa Vista;Miami;;;USA
+C000358;Rua Sete de Setembro;1712;Asa Norte;Recife;pe;35509254;BRA
+C000360;Avenida Brasil;1654;Asa Sul;São Paulo;SP;13976-637;brasil
+C000361;Avenida Brasil;1359;Boa Vista;Rio de Janeiro;rj;96462724;brasil
+C000362;Rua Sete de Setembro;1313;Asa Sul;Brasília;DF;50254913;BR
+C000363;Rua do Comércio;363;Jardim América;Campinas;SP;10621-926;Brasil
+C000364;Avenida Brasil;237;Asa Norte;Recife;pe;68868131;BR
+C000365;Rua Sete de Setembro;906;Vila Nova;São Paulo;sp;41686446;BR
+C000367;Travessa São José;921;Boa Vista;Recife;XX;84906-660;brasil
+C000368;Rua do Comércio;1363;Jardim América;Curitiba;PR;68181-975;brasil
+C000369;Rua Sete de Setembro;1314;Jardim América;São Paulo;XX;60589581;BRA
+C000370;Avenida Brasil;1644;Vila Nova;Recife;PE;72270346;brasil
+C000371;Rua do Comércio;175;Asa Sul;Porto Alegre;RS;74456969;BR
+C000372;Rua das Flores;1505;Vila Nova;Curitiba;PR;96430-082;brasil
+C000373;Avenida Brasil;20;Boa Vista;Goiânia;GO;30185585;BR
+C000374;Rua das Flores;907;Asa Norte;Manaus;AM;71500294;BRA
+C000375;Alameda Santos;25;Boa Vista;São Paulo;sp;17917634;Brasil
+C000376;Rua do Comércio;782;Setor Bueno;Porto Alegre;RS;64997-972;brasil
+C000377;Alameda Santos;1646;Asa Norte;Brasília;DF;72482-622;Brasil
+C000378;Quadra 104;1451;Vila Nova;Porto Alegre;RS;35477-923;Brasil
+C000379;Quadra 104;1962;Vila Nova;Porto Alegre;RS;73530321;Brasil
+C000380;Rua do Comércio;1132;Jardim América;Manaus;AM;52310-979;BRA
+C000381;Rua das Flores;1075;Jardim América;Rio de Janeiro;RJ;55032-768;brasil
+C000382;Avenida Brasil;83;Asa Norte;Fortaleza;XX;74517024;Brasil
+C000383;Quadra 104;410;Setor Bueno;Fortaleza;CE;34226-115;BRA
+C000384;Avenida Paulista;1905;Centro;Campinas;sp;14089-6;BR
+C000385;Travessa São José;1389;Jardim América;Manaus;AM;18294748;brasil
+C000386;Rua Sete de Setembro;657;Boa Vista;Goiânia;GO;81380-167;brasil
+C000387;Travessa São José;168;Setor Bueno;Rio de Janeiro;RJ;85195142;BRA
+C000388;Avenida Paulista;496;Setor Bueno;Campinas;SP;74907147;BR
+C000389;Alameda Santos;1764;Setor Bueno;Recife;pe;75535-327;BR
+C000390;Alameda Santos;142;Vila Nova;Recife;XX;877818;BRA
+C000391;Alameda Santos;1656;Boa Vista;Curitiba;pr;99526597;Brasil
+C000392;Quadra 104;914;Boa Vista;Campinas;SP;13160-165;BR
+C000394;Rua do Comércio;1599;Jardim América;Curitiba;PR;44402-416;BRA
+C000395;Travessa São José;1552;Setor Bueno;Rio de Janeiro;RJ;50388875;Brasil
+C000396;Rua Sete de Setembro;1643;Setor Bueno;Salvador;BA;97776-674;brasil
+C000397;Avenida Paulista;1901;Jardim América;Belo Horizonte;MG;82179-402;brasil
+C000398;Avenida Paulista;881;Asa Norte;Brasília;DF;24605345;BR
+C000399;Travessa São José;914;Asa Norte;São Paulo;SP;41296-687;BR
+C000400;Quadra 104;778;Vila Nova;São Paulo;SP;56303-414;Brasil
+C000401;Rua Sete de Setembro;190;Vila Nova;Campinas;SP;16288-778;Brasil
+C000402;Rua do Comércio;1482;Asa Norte;Manaus;am;33426-546;Brasil
+C000403;Travessa São José;1128;Vila Nova;Brasília;df;47644471;BR
+C000404;Rua Sete de Setembro;1330;Setor Bueno;Brasília;DF;68974885;BRA
+C000405;Avenida Paulista;123;Centro;Porto Alegre;rs;76416-169;Brasil
+C000406;Rua das Flores;1953;Asa Norte;São Paulo;SP;46144-403;brasil
+C000407;Avenida Paulista;1652;Vila Nova;Belo Horizonte;MG;92775-680;Brasil
+C000408;Rua do Comércio;1897;Centro;Recife;PE;91665492;BRA
+C000409;Avenida Paulista;1728;Asa Sul;Porto Alegre;RS;16731-002;BRA
+C000410;Travessa São José;1746;Asa Sul;Belo Horizonte;MG;75066-621;BR
+C000411;Avenida Paulista;1920;Boa Vista;Recife;PE;26071952;brasil
+C000412;Quadra 104;1477;Asa Norte;Rio de Janeiro;rj;77211-618;BRA
+C000413;Travessa São José;1903;Jardim América;Porto Alegre;rs;87243642;brasil
+C000414;Quadra 104;1094;Boa Vista;Salvador;XX;88675-679;Brasil
+C000415;Rua das Flores;1953;Asa Norte;Belo Horizonte;MG;19991159;BR
+C000416;Travessa São José;213;Setor Bueno;Campinas;SP;13904348;Brasil
+C000417;Rua do Comércio;246;Vila Nova;Salvador;BA;74794566;brasil
+C000418;Avenida Brasil;195;Asa Sul;Rio de Janeiro;RJ;78806617;BRA
+C000419;Rua do Comércio;832;Vila Nova;Manaus;am;24002-912;BR
+C000420;Avenida Brasil;1448;Jardim América;Salvador;BA;85803-294;brasil
+C000422;Avenida Paulista;363;Jardim América;Brasília;DF;64185113;BRA
+C000423;Avenida Brasil;495;Asa Sul;Belo Horizonte;MG;62915-020;Brasil
+C000424;Rua das Flores;1757;Asa Sul;Recife;PE;71846-639;brasil
+C000425;Avenida Brasil;192;Setor Bueno;Goiânia;GO;37405-095;brasil
+C000426;Alameda Santos;463;Vila Nova;Brasília;DF;35905-135;BRA
+C000427;Quadra 104;1954;Jardim América;Salvador;BA;69382161;Brasil
+C000428;Avenida Brasil;532;Asa Sul;Brasília;DF;41653551;BR
+C000429;Avenida Brasil;900;Setor Bueno;Goiânia;GO;20830-704;BR
+C000430;Avenida Paulista;1815;Asa Norte;Brasília;DF;71251-026;brasil
+C000431;Rua Sete de Setembro;258;Centro;Salvador;BA;91841797;BR
+C000432;Travessa São José;1550;Boa Vista;Belo Horizonte;MG;63430-304;Brasil
+C000433;Rua Sete de Setembro;1701;Asa Sul;Belo Horizonte;MG;39604-748;BR
+C000434;Travessa São José;1319;Asa Sul;Recife;PE;92689-695;BR
+C000435;Rua Sete de Setembro;1716;Vila Nova;Miami;;;USA
+C000436;Quadra 104;1243;Vila Nova;Rio de Janeiro;RJ;35520174;brasil
+C000438;Rua das Flores;238;Asa Norte;Salvador;BA;78746-851;BRA
+C000439;Travessa São José;1571;Vila Nova;Recife;XX;43455596;brasil
+C000440;Alameda Santos;318;Jardim América;São Paulo;SP;63453637;BR
+C000441;Rua do Comércio;1116;Boa Vista;Manaus;AM;81991823;BR
+C000442;Travessa São José;1230;Jardim América;Salvador;BA;315274;BR
+C000443;Avenida Paulista;554;Centro;Campinas;SP;92179-147;brasil
+C000444;Rua do Comércio;733;Boa Vista;Salvador;BA;36563-464;BRA
+C000445;Rua Sete de Setembro;1771;Vila Nova;Goiânia;GO;50251270;Brasil
+C000446;Rua do Comércio;1505;Setor Bueno;Recife;PE;44222531;BRA
+C000447;Avenida Brasil;1350;Setor Bueno;Curitiba;PR;57852-782;BR
+C000448;Quadra 104;1357;Setor Bueno;Brasília;DF;53369-817;BR
+C000449;Avenida Brasil;1474;Boa Vista;Fortaleza;CE;46031389;brasil
+C000450;Alameda Santos;1166;Centro;Brasília;DF;61138390;Brasil
+C000451;Alameda Santos;365;Asa Sul;Curitiba;PR;34458545;Brasil
+C000452;Avenida Brasil;1872;Jardim América;Belo Horizonte;MG;98529915;BR
+C000453;Avenida Paulista;1947;Setor Bueno;Porto Alegre;RS;29619713;Brasil
+C000454;Rua Sete de Setembro;284;Jardim América;Curitiba;PR;68953-551;brasil
+C000455;Rua do Comércio;697;Jardim América;Campinas;sp;52726-889;BR
+C000456;Rua Sete de Setembro;1450;Vila Nova;Manaus;AM;37413972;Brasil
+C000457;Avenida Paulista;991;Asa Norte;São Paulo;SP;70851-328;brasil
+C000458;Avenida Brasil;1312;Asa Sul;Recife;PE;23213-750;BRA
+C000459;Alameda Santos;6;Asa Norte;Porto Alegre;RS;68566618;BRA
+C000460;Rua do Comércio;1401;Asa Norte;Recife;PE;77977515;brasil
+C000461;Rua do Comércio;1360;Centro;Manaus;AM;12993-797;BR
+C000462;Avenida Brasil;1265;Boa Vista;Manaus;AM;62782-107;brasil
+C000463;Avenida Paulista;770;Asa Norte;Fortaleza;CE;85553-680;BR
+C000464;Travessa São José;253;Asa Sul;Belo Horizonte;MG;13361144;BRA
+C000465;Rua do Comércio;867;Setor Bueno;Goiânia;go;75062577;brasil
+C000466;Rua das Flores;1059;Centro;Salvador;BA;21793-500;Brasil
+C000467;Rua do Comércio;916;Jardim América;Curitiba;PR;12284-578;BR
+C000468;Rua do Comércio;1284;Vila Nova;Porto Alegre;rs;62819-424;Brasil
+C000469;Quadra 104;1328;Centro;Brasília;DF;61773802;brasil
+C000470;Rua Sete de Setembro;1810;Jardim América;Recife;PE;11921068;brasil
+C000471;Avenida Brasil;1988;Vila Nova;Brasília;DF;96702-520;Brasil
+C000472;Rua Sete de Setembro;1047;Jardim América;Campinas;SP;21993782;brasil
+C000473;Alameda Santos;1190;Setor Bueno;São Paulo;SP;53687-740;BRA
+C000474;Quadra 104;545;Vila Nova;Campinas;SP;10044514;BRA
+C000475;Rua do Comércio;1597;Setor Bueno;Brasília;DF;43359328;BR
+C000476;Avenida Paulista;164;Jardim América;Salvador;BA;62521472;BR
+C000477;Rua das Flores;720;Centro;São Paulo;SP;72620-369;BR
+C000479;Rua Sete de Setembro;1750;Boa Vista;Recife;pe;43828-818;Brasil
+C000480;Avenida Paulista;1093;Setor Bueno;Brasília;df;22097381;BR
+C000481;Quadra 104;881;Asa Sul;Goiânia;GO;39990753;Brasil
+C000482;Alameda Santos;585;Setor Bueno;Manaus;am;24601143;BR
+C000483;Avenida Paulista;1279;Asa Norte;Campinas;sp;52598736;BRA
+C000484;Rua do Comércio;494;Boa Vista;Recife;PE;12040657;BR
+C000485;Quadra 104;1214;Jardim América;Manaus;AM;43113-179;brasil
+C000486;Alameda Santos;1465;Jardim América;Salvador;BA;15938-931;BR
+C000487;Rua das Flores;758;Setor Bueno;Brasília;df;69905855;BR
+C000488;Quadra 104;881;Jardim América;Recife;PE;78523-629;BR
+C000489;Avenida Brasil;272;Jardim América;Porto Alegre;RS;13063709;brasil
+C000490;Rua Sete de Setembro;575;Centro;São Paulo;SP;19781098;BRA
+C000491;Rua das Flores;130;Boa Vista;São Paulo;sp;10007727;brasil
+C000492;Rua das Flores;188;Centro;Salvador;BA;10818-493;Brasil
+C000493;Alameda Santos;847;Vila Nova;Recife;PE;48408232;Brasil
+C000494;Rua do Comércio;897;Asa Sul;Recife;PE;71377-913;BR
+C000495;Avenida Paulista;1444;Centro;Belo Horizonte;MG;53364-342;BR
+C000496;Rua Sete de Setembro;345;Boa Vista;Fortaleza;ce;68351-698;Brasil
+C000497;Avenida Paulista;90;Setor Bueno;Fortaleza;CE;93062911;brasil
+C000498;Avenida Brasil;1957;Asa Norte;Brasília;DF;18442073;Brasil
+C000499;Rua das Flores;151;Vila Nova;Miami;XX;;USA
+C000500;Rua Sete de Setembro;1193;Centro;Curitiba;PR;34070-292;brasil
